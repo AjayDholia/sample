@@ -1,0 +1,15 @@
+.select{
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    height:7vh;
+    border-radius: 11px;
+    border: none;
+}
+
+.search input{
+    margin-top: 2%;
+    height: 7vh;
+    width: 19%;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    border-radius: 11px;
+    border: none;
+}
